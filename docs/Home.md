@@ -1,0 +1,11 @@
+
+### Auxilio Robotics
+
+Auxilio Robotics is developing human-friendly, assistive robots that cater to patients in senior-living facilities and healthcare environments, in order to meet the growing concerns of labor shortage. The elder populous tends to sway away from the idea of "help" as it is a sign of old-age and dependence. A robot is something that serves them independence without having the need to rely on another human.
+
+Auxilio’s robots can add significant value to patients and healthcare providers by performing a range of vital tasks, including autonomous delivery of important items within indoor environments, and healthcare monitoring for anomaly detection. In addition, Auxilio's integrated robot-tablet-cloud ecosystem provides a transformational communication experience between patients and their distant loved ones, enabling interactions like never before. Powered by powerful Robotics and AI technologies, Auxilio Robotics is propelling assistive healthcare into the future!
+
+We are a team of 5 from Carnegie Mellon University, Robotics Institute hoping in to usher in an era of new-age health tech!
+
+
+

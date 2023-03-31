@@ -1,0 +1,6 @@
+site_name: Auxilio Robotics
+theme:
+  name: material
+  logo: assets/logo.jpg
+  palette:
+    primary: red
